@@ -1,0 +1,19 @@
+
+_com.infosys.project.user.UserConfig#restTemplate()Lorg/springframework/web/client/RestTemplate;_
+UC:/Users/ROYAL LINK TRADE/user/src/main/java/com/infosys/project/user/UserConfig.java ($"1*ù
+1_
+UC:/Users/ROYAL LINK TRADE/user/src/main/java/com/infosys/project/user/UserConfig.java (!ƒ¡
+_
+UC:/Users/ROYAL LINK TRADE/user/src/main/java/com/infosys/project/user/UserConfig.java (1
+%0+org.springframework.web.client.RestTemplate"+org.springframework.web.client.RestTemplate÷
+”
+_
+UC:/Users/ROYAL LINK TRADE/user/src/main/java/com/infosys/project/user/UserConfig.java (!
+%1"5org.springframework.web.client.RestTemplate#<init>()V*3
+1
+%0+org.springframework.web.client.RestTemplate"ñ
+_
+UC:/Users/ROYAL LINK TRADE/user/src/main/java/com/infosys/project/user/UserConfig.java ("3
+1
+%0+org.springframework.web.client.RestTemplateB'%
+#com.infosys.project.user.UserConfig
